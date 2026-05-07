@@ -1,0 +1,14 @@
+C:\Users\Lily\Desktop\StudentDb\bin\Debug\net10.0\StudentDb.exe
+C:\Users\Lily\Desktop\StudentDb\bin\Debug\net10.0\StudentDb.deps.json
+C:\Users\Lily\Desktop\StudentDb\bin\Debug\net10.0\StudentDb.runtimeconfig.json
+C:\Users\Lily\Desktop\StudentDb\bin\Debug\net10.0\StudentDb.dll
+C:\Users\Lily\Desktop\StudentDb\bin\Debug\net10.0\StudentDb.pdb
+C:\Users\Lily\Desktop\StudentDb\obj\Debug\net10.0\StudentDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lily\Desktop\StudentDb\obj\Debug\net10.0\StudentDb.AssemblyInfoInputs.cache
+C:\Users\Lily\Desktop\StudentDb\obj\Debug\net10.0\StudentDb.AssemblyInfo.cs
+C:\Users\Lily\Desktop\StudentDb\obj\Debug\net10.0\StudentDb.csproj.CoreCompileInputs.cache
+C:\Users\Lily\Desktop\StudentDb\obj\Debug\net10.0\StudentDb.dll
+C:\Users\Lily\Desktop\StudentDb\obj\Debug\net10.0\refint\StudentDb.dll
+C:\Users\Lily\Desktop\StudentDb\obj\Debug\net10.0\StudentDb.pdb
+C:\Users\Lily\Desktop\StudentDb\obj\Debug\net10.0\StudentDb.genruntimeconfig.cache
+C:\Users\Lily\Desktop\StudentDb\obj\Debug\net10.0\ref\StudentDb.dll
