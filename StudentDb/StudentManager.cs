@@ -115,16 +115,16 @@ public class StudentManager
         return name;
     }
 
-    private int GetValidNumber(string prompt)
+    private int GetValidNumber(string change)
     {
-        Console.Write(prompt + " ");
+        Console.Write(change + " ");
         int result;
 
         if (int.TryParse(Console.ReadLine(), out result))
             return result;
 
         Console.WriteLine("Invalid input. Please enter a valid number.");
-        return GetValidNumber(prompt);
+        return GetValidNumber(change);
     }
 
     public int Count => students.Count;
