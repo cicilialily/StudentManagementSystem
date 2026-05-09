@@ -4,7 +4,7 @@
     {
         StudentManager manager = new StudentManager();
 
-        manager.AddStudents();
+        manager.Run();
 
         if (manager.Count == 0)
         {
